@@ -1,1 +1,1 @@
-This repo is for practicing git commands
+This wrote is inside readme in the update_script

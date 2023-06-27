@@ -1,0 +1,7 @@
+# ignore ALL .log files
+*.log
+# ignore All .md files 
+*.md
+#ignore ALL directory with /tmp
+/tmp
+
